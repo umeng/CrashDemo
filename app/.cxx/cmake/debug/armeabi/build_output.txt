@@ -17,8 +17,8 @@ Check for working C compiler: /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16
 CMake Warning at /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/build/cmake/android.toolchain.cmake:243 (message):
   armeabi is deprecated and will be removed in a future NDK release.
 Call Stack (most recent call first):
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Check for working C compiler: /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works
@@ -26,8 +26,8 @@ Detecting C compiler ABI info
 CMake Warning at /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/build/cmake/android.toolchain.cmake:243 (message):
   armeabi is deprecated and will be removed in a future NDK release.
 Call Stack (most recent call first):
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Detecting C compiler ABI info - done
@@ -35,22 +35,22 @@ Detecting C compile features
 CMake Warning at /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/build/cmake/android.toolchain.cmake:243 (message):
   armeabi is deprecated and will be removed in a future NDK release.
 Call Stack (most recent call first):
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/build/cmake/android.toolchain.cmake:243 (message):
   armeabi is deprecated and will be removed in a future NDK release.
 Call Stack (most recent call first):
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/build/cmake/android.toolchain.cmake:243 (message):
   armeabi is deprecated and will be removed in a future NDK release.
 Call Stack (most recent call first):
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Detecting C compile features - done
@@ -58,8 +58,8 @@ Check for working CXX compiler: /Users/gyq/Library/Android/sdk/ndk/android-ndk-r
 CMake Warning at /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/build/cmake/android.toolchain.cmake:243 (message):
   armeabi is deprecated and will be removed in a future NDK release.
 Call Stack (most recent call first):
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Check for working CXX compiler: /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works
@@ -67,8 +67,8 @@ Detecting CXX compiler ABI info
 CMake Warning at /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/build/cmake/android.toolchain.cmake:243 (message):
   armeabi is deprecated and will be removed in a future NDK release.
 Call Stack (most recent call first):
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Detecting CXX compiler ABI info - done
@@ -76,29 +76,29 @@ Detecting CXX compile features
 CMake Warning at /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/build/cmake/android.toolchain.cmake:243 (message):
   armeabi is deprecated and will be removed in a future NDK release.
 Call Stack (most recent call first):
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/build/cmake/android.toolchain.cmake:243 (message):
   armeabi is deprecated and will be removed in a future NDK release.
 Call Stack (most recent call first):
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/build/cmake/android.toolchain.cmake:243 (message):
   armeabi is deprecated and will be removed in a future NDK release.
 Call Stack (most recent call first):
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 CMake Warning at /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/build/cmake/android.toolchain.cmake:243 (message):
   armeabi is deprecated and will be removed in a future NDK release.
 Call Stack (most recent call first):
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
-  /Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/3.10.2/CMakeSystem.cmake:6 (include)
+  /Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/debug/armeabi/CMakeFiles/CMakeTmp/CMakeLists.txt:2 (project)
 
 
 Detecting CXX compile features - done

@@ -5,9 +5,9 @@
     "environmentVariables": []
   },
   "cmake": {
-    "cmakeArtifactsBaseFolder": "/Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/release/armeabi",
-    "cmakeServerLogFile": "/Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/release/armeabi/cmake_server_log.txt",
-    "cmakeWrappingBaseFolder": "/Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cxx/release/armeabi",
+    "cmakeArtifactsBaseFolder": "/Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/release/armeabi",
+    "cmakeServerLogFile": "/Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/release/armeabi/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cxx/release/armeabi",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -15,7 +15,7 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "/Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/release/armeabi",
+      "buildRoot": "/Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/release/armeabi",
       "cmakeToolchain": "/Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/build/cmake/android.toolchain.cmake",
       "cmakeExecutable": "/Users/gyq/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
       "variables": [
@@ -53,7 +53,7 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "/Users/gyq/Desktop/ym/APMCrashDemo/app/build/intermediates/cmake/release/obj/armeabi"
+          "value": "/Users/gyq/Desktop/ym/CrashDemo/app/build/intermediates/cmake/release/obj/armeabi"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
@@ -70,14 +70,14 @@
       ]
     }
   },
-  "cxxBuildFolder": "/Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/release/armeabi",
+  "cxxBuildFolder": "/Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/release/armeabi",
   "info": {
     "abi": "ARMEABI",
     "bitness": 32,
     "deprecated": true,
     "default": false
   },
-  "originalCxxBuildFolder": "/Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/release/armeabi",
+  "originalCxxBuildFolder": "/Users/gyq/Desktop/ym/CrashDemo/app/.cxx/cmake/release/armeabi",
   "variant": {
     "buildSystemArgumentList": [],
     "buildTargetSet": [],
@@ -95,12 +95,12 @@
         "ninjaExe": "/Users/gyq/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
       },
       "cmakeToolchainFile": "/Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b/build/cmake/android.toolchain.cmake",
-      "cxxFolder": "/Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx",
+      "cxxFolder": "/Users/gyq/Desktop/ym/CrashDemo/app/.cxx",
       "gradleModulePathName": ":app",
-      "intermediatesFolder": "/Users/gyq/Desktop/ym/APMCrashDemo/app/build/intermediates",
-      "makeFile": "/Users/gyq/Desktop/ym/APMCrashDemo/app/src/main/cpp/CMakeLists.txt",
-      "moduleBuildFile": "/Users/gyq/Desktop/ym/APMCrashDemo/app/build.gradle",
-      "moduleRootFolder": "/Users/gyq/Desktop/ym/APMCrashDemo/app",
+      "intermediatesFolder": "/Users/gyq/Desktop/ym/CrashDemo/app/build/intermediates",
+      "makeFile": "/Users/gyq/Desktop/ym/CrashDemo/app/src/main/cpp/CMakeLists.txt",
+      "moduleBuildFile": "/Users/gyq/Desktop/ym/CrashDemo/app/build.gradle",
+      "moduleRootFolder": "/Users/gyq/Desktop/ym/CrashDemo/app",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
@@ -163,12 +163,12 @@
       ],
       "ndkVersion": "16.1.4479499",
       "project": {
-        "compilerSettingsCacheFolder": "/Users/gyq/Desktop/ym/APMCrashDemo/.cxx",
-        "cxxFolder": "/Users/gyq/Desktop/ym/APMCrashDemo/.cxx",
+        "compilerSettingsCacheFolder": "/Users/gyq/Desktop/ym/CrashDemo/.cxx",
+        "cxxFolder": "/Users/gyq/Desktop/ym/CrashDemo/.cxx",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "/Users/gyq/Desktop/ym/APMCrashDemo",
+        "rootBuildGradleFolder": "/Users/gyq/Desktop/ym/CrashDemo",
         "sdkFolder": "/Users/gyq/Library/Android/sdk"
       },
       "splitsAbiFilterSet": [],
@@ -207,7 +207,7 @@
         "SYSTEM": {}
       }
     },
-    "objFolder": "/Users/gyq/Desktop/ym/APMCrashDemo/app/build/intermediates/cmake/release/obj",
+    "objFolder": "/Users/gyq/Desktop/ym/CrashDemo/app/build/intermediates/cmake/release/obj",
     "variantName": "release",
     "validAbiList": [
       "ARMEABI",

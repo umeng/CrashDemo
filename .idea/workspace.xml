@@ -17,6 +17,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[a70ab624]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -165,9 +166,10 @@
     </state>
     <state x="245" y="174" key="#PSD/0.23.1440.825@0.23.1440.825" timestamp="1630563530651" />
     <state x="245" y="174" key="#PSD/0.23.1440.826@0.23.1440.826" timestamp="1630555147328" />
-    <state x="401" y="34" key="#app" timestamp="1630554480172">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state x="401" y="12" key="#app" timestamp="1632478579028">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="401" y="12" key="#app/0.0.1440.900@0.0.1440.900" timestamp="1632478579028" />
     <state x="401" y="34" key="#app/0.23.1440.826@0.23.1440.826" timestamp="1630554480172" />
     <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1631519057015">
       <screen x="0" y="0" width="1440" height="900" />
