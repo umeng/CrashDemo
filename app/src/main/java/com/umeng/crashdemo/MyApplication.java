@@ -20,6 +20,7 @@ public class MyApplication extends Application {
         super.onCreate();
 
         UMConfigure.setLogEnabled(true);
+        //添加注释
         UMConfigure.init(this, "5fd9c794dd28915339214127", "umeng", UMConfigure.DEVICE_TYPE_PHONE, "");
 
 //        final Bundle customInfo = new Bundle();
