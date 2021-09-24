@@ -1,0 +1,57 @@
+{
+  "ndkFolder": "/Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b",
+  "messages": [
+    {
+      "level": "INFO",
+      "message": "android.ndkVersion from module build.gradle is 16.1.4479499"
+    },
+    {
+      "level": "INFO",
+      "message": "ndk.dir in local.properties is /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b"
+    },
+    {
+      "level": "INFO",
+      "message": "ANDROID_NDK_HOME environment variable is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "sdkFolder is /Users/gyq/Library/Android/sdk"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b by ndk.dir"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/gyq/Library/Android/sdk/ndk-bundle in SDK ndk-bundle folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/gyq/Library/Android/sdk/ndk/android-ndk-r12b in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/gyq/Library/Android/sdk/ndk/23.0.7530507 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/gyq/Library/Android/sdk/ndk/20.0.5594570 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/gyq/Library/Android/sdk/ndk/21.1.6352462 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/gyq/Library/Android/sdk/ndk/23.0.7123448 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Choosing /Users/gyq/Library/Android/sdk/ndk/android-ndk-r16b from ndk.dir which had the requested version 16.1.4479499"
+    }
+  ]
+}

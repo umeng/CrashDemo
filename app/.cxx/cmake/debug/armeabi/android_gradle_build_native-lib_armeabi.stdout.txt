@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/gyq/Desktop/ym/APMCrashDemo/app/.cxx/cmake/debug/armeabi'
+ninja: no work to do.

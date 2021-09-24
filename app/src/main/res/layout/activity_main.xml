@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:visibility="gone"
+        android:id="@+id/button_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="页面跳转" />
+
+    <Button
+        android:id="@+id/button_java_null_potion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="java null potion" />
+
+    <Button
+        android:id="@+id/button_user_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="自定义异常-新版本string类型" />
+
+    <Button
+        android:id="@+id/button_user_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="自定义异常-新版本throwable类型" />
+
+    <Button
+        android:id="@+id/button_user_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="自定义异常-老版本string类型" />
+
+    <Button
+        android:id="@+id/button_user_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="自定义异常-老版本throwable类型" />
+
+    <Button
+        android:visibility="gone"
+        android:id="@+id/button_user_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="自定义异常-老版本开启接口" />
+
+    <Button
+        android:visibility="gone"
+        android:id="@+id/button_user_6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="自定义异常-老版本关闭接口" />
+
+    <Button
+        android:visibility="gone"
+        android:id="@+id/button_java_oom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="java oom" />
+
+    <Button
+        android:visibility="gone"
+        android:id="@+id/button_java_fd_leak"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="java fd leak" />
+
+    <Button
+        android:id="@+id/button_native_crash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="native crash" />
+
+    <Button
+        android:id="@+id/button_anr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="unexp anr" />
+
+    <Button
+        android:id="@+id/button_pa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="卡顿" />
+
+    <Button
+        android:id="@+id/button_wl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="网络分析测试按钮" />
+</LinearLayout>
